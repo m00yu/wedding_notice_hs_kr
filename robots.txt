@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+
+# 카카오톡 링크 미리보기는 계속 뜨도록 허용
+User-agent: kakaotalk-scrap
+Allow: /
